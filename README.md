@@ -20,5 +20,5 @@ Ideal para bibliotecas físicas o virtuales.
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/api-libreria.git
-   cd api-libreria
+   git clone https://github.com/kprieto/libreria-api.git
+   cd libreria-api
